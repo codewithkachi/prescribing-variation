@@ -1,0 +1,8 @@
+# Generated data: reproducible by running the scripts in src/, and far too large for a repo.
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

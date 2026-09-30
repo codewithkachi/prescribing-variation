@@ -1,0 +1,10 @@
+# Shared across all nine projects.
+pandas>=2.2
+numpy>=1.26
+duckdb>=1.0
+matplotlib>=3.8
+scipy>=1.11
+statsmodels>=0.14
+pyarrow>=15.0
+mlxtend>=0.23
+networkx>=3.2

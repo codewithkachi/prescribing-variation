@@ -1,0 +1,5 @@
+method,practices_flagged,true_outliers_found,precision_pct,recall_pct
+"League table, top and bottom 95",95,44,46.31578947368421,46.31578947368421
+"League table, top and bottom 200",200,50,25.0,52.63157894736842
+"Funnel plot, outside 95% limits",477,92,19.28721174004193,96.84210526315789
+"Funnel plot, outside 99.8% limits",108,71,65.74074074074075,74.73684210526316
